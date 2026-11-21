@@ -2,8 +2,6 @@
 legendary / v.rare
 ---------
 - moonblade +2, vicious (+2d6); ATTUNE
-  - longsword, versatile (d8/d10), SAP mastery (DIS on hit)
-  - https://dnd5e.wikidot.com/wondrous-items:moonblade
 
 rare
 ----
